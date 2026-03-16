@@ -1,6 +1,7 @@
+ft_ls
+src/Libft/libft.a
 # Prerequisites
 *.d
-
 # Object files
 *.o
 *.ko
